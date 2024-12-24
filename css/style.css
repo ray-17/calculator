@@ -51,3 +51,12 @@ form .display input{
 form input.equal{
     width: 145px;
 }
+
+form input.operator{
+    color: #4df2ff;
+}
+
+form input.AC{
+    background: #fd0202;
+    color: white;
+}
